@@ -1,1 +1,3 @@
-# mtm6302-capstone-morg021
+# Izekor Morgan
+# Student Number: 041080578
+# Project Name: Quiz Site
